@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("hello intellij IEDA");
         System.out.println("hello world");
         System.out.println("hello github");
+        System.out.println("hello git repository");
     }
 }
